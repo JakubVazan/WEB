@@ -10,7 +10,7 @@
      <?php foreach($knihy as $k): ?>
       <tr>
             <td>
-              <a href="<?php echo base_url('hlavni_controller/kliknuti_na_knihu/' .$k->id_knihy)?>"><?php echo $k->nazev_knihy;?></a>       
+              <a href="<?php echo base_url()?>anotace/<?= $k->id_knihy ?>"><?php echo $k->nazev_knihy;?></a> 
             </td>
             <td> 
                 <?php echo $k->autor; ?>

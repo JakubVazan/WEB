@@ -59,4 +59,5 @@ $route['default_controller'] = 'hlavni_controller/PrvniVypis';
 $route['petaridl'] = 'hlavni_controller/petaridl';
 
 $route['vypisknih/(:any)'] = 'hlavni_controller/vypis/$1';
+$route['anotace/(:any)'] = 'hlavni_controller/kliknuti_na_knihu/$1';
 
