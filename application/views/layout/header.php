@@ -1,6 +1,6 @@
 <html>
     <head>
-        <title>Maturitní Četba</title>
+        <title>Maturitní Knihy</title>
         <link href="<?php echo base_url()?>assets/bootstrap.min.css" rel="stylesheet" type="text/css">
         <link href="<?php echo base_url()?>assets/CeEsEs.css" rel="stylesheet" type="text/css">
         <script src="https://kit.fontawesome.com/65d96749db.js" crossorigin="anonymous"></script>
