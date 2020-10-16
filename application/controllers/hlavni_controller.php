@@ -4,7 +4,7 @@
             function construct()
             {
                 parent :: __construct();
-                $this->load->model('hlavni_model'); 
+                $this->load->model('hlavni_model');
             }
             
             public function PrvniVypis()
