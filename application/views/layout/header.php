@@ -25,6 +25,9 @@
                    <li class="nav-item">
                         <a class="nav-link" href="<?php echo base_url()?>assets/dokumentace/dokumentace.pdf">Dokumentace</a>
                     </li>
+                    <li class="nav-item">
+                        <a class="nav-link" href="<?php echo base_url()?>prihlaseni">Přihlášení</a>
+                    </li>
             </ul>
         </div>
     </nav>
